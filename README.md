@@ -1,4 +1,4 @@
 # hello-world
 practice
 
-Hello, suku.
+Hello, nyan.
